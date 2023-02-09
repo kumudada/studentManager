@@ -1,0 +1,1 @@
+declare module '@/network/request.js';

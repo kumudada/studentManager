@@ -1,0 +1,7 @@
+{
+    "bracketSameLine":true,
+    "vueIndentScriptAndStyle":true,
+    "tabWidth": 4,
+    "printWidth":150,
+    "prettier.singleQuote": true
+}
